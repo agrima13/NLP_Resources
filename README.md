@@ -7,3 +7,7 @@ https://docs.python.org/3/library/re.html
 Beautiful Soup
 
 https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+
+Tokenizer Package (The Tweet Package here is pretty interesting !)
+
+http://www.nltk.org/api/nltk.tokenize.html
