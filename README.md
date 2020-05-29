@@ -15,3 +15,7 @@ http://www.nltk.org/api/nltk.tokenize.html
 Word2Vec
 
 http://jalammar.github.io/illustrated-word2vec/
+
+LDA
+
+http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf
